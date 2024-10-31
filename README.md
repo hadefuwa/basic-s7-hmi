@@ -1,7 +1,3 @@
-Here’s an updated version of the instructions with your GitHub username and repository name:
-
----
-
 # Basic S7 HMI
 
 This is a basic HMI app built with Electron.js to communicate with Siemens S7 PLCs. Follow these steps to set up and run the application.
@@ -58,5 +54,3 @@ This is a basic HMI app built with Electron.js to communicate with Siemens S7 PL
 - For Electron-specific issues, check the [Electron documentation](https://www.electronjs.org/docs) for troubleshooting tips.
 
 ---
-
-This README should be clear for anyone looking to set up and run your app. Let me know if there’s anything else you’d like to add!
