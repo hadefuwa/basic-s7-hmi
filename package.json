@@ -1,0 +1,24 @@
+{
+  "name": "s7-hmi",
+  "version": "1.0.0",
+  "description": "HMI interface for Siemens S7-1200 PLC",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --debug",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "hmi",
+    "plc",
+    "siemens",
+    "s7-1200"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^33.0.2",
+    "nodes7": "^0.3.18"
+  }
+}
